@@ -58,3 +58,8 @@ fig.update_layout(
 
 # Show the plot
 fig.show()
+
+def hei():
+    return None
+def halo():
+    return None
